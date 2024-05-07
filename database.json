@@ -1,92 +1,162 @@
 [
   {
-    "Model": "RP-1000",
-    "Manufacturer": "TechProsthetics Inc.",
-    "Features": [
-      "Advanced motion sensing technology",
-      "Customizable grip strength",
-      "Waterproof design"
-    ],
-    "Specifications": {
-      "Weight": "500 grams",
-      "Battery Life": "12 hours",
-      "Maximum Load Capacity": "100 kilograms"
-    },
-    "Area of Exploitation": "Medical rehabilitation"
+    "id": 1,
+    "model": "RP-1000",
+    "manufacturer": "TechProsthetics Inc.",
+    "battery_life": "12 hours",
+    "max_capacity": "100 kilograms",
+    "area_of_exploitation": "Medical rehabilitation"
   },
   {
-    "Model": "Xtend-500",
-    "Manufacturer": "CyberLimbs Ltd.",
-    "Features": [
-      "Biomechanical joint articulation",
-      "Integrated neural interface",
-      "Real-time feedback system"
-    ],
-    "Specifications": {
-      "Weight": "700 grams",
-      "Battery Life": "18 hours",
-      "Maximum Load Capacity": "120 kilograms"
-    },
-    "Area of Exploitation": "Assistive technology for daily living"
+    "id": 2,
+    "model": "Xtend-500",
+    "manufacturer": "CyberLimbs Ltd.",
+    "battery_life": "18 hours",
+    "max_capacity": "120 kilograms",
+    "area_of_exploitation": "Assistive technology for daily living"
   },
   {
-    "Model": "BioGrip Pro",
-    "Manufacturer": "BioTech Solutions",
-    "Features": [
-      "Muscle activation sensors",
-      "Tactile feedback technology",
-      "Adaptive learning algorithms"
-    ],
-    "Specifications": {
-      "Weight": "600 grams",
-      "Battery Life": "15 hours",
-      "Maximum Load Capacity": "110 kilograms"
-    },
-    "Area of Exploitation": "Sports and athletics"
+    "id": 3,
+    "model": "BioGrip Pro",
+    "manufacturer": "BioTech Solutions",
+    "battery_life": "15 hours",
+    "max_capacity": "110 kilograms",
+    "area_of_exploitation": "Sports and athletics"
   },
   {
-    "Model": "NeuroFlex",
-    "Manufacturer": "NeuroTech Innovations",
-    "Features": [
-      "Neural interface for precise control",
-      "Lightweight and ergonomic design",
-      "Integrated EMG sensors"
-    ],
-    "Specifications": {
-      "Weight": "550 grams",
-      "Battery Life": "16 hours",
-      "Maximum Load Capacity": "105 kilograms"
-    },
-    "Area of Exploitation": "Neurorehabilitation"
+    "id": 4,
+    "model": "NeuroFlex",
+    "manufacturer": "NeuroTech Innovations",
+    "battery_life": "16 hours",
+    "max_capacity": "105 kilograms",
+    "area_of_exploitation": "Neurorehabilitation"
   },
   {
-    "Model": "PowerArm Plus",
-    "Manufacturer": "Bionic Dynamics",
-    "Features": [
-      "High-powered motor for heavy lifting",
-      "Artificial intelligence for intuitive control",
-      "Modular design for customization"
-    ],
-    "Specifications": {
-      "Weight": "750 grams",
-      "Battery Life": "20 hours",
-      "Maximum Load Capacity": "150 kilograms"
-    },
-    "Area of Exploitation": "Industrial applications"
+    "id": 5,
+    "model": "PowerArm Plus",
+    "manufacturer": "Bionic Dynamics",
+    "battery_life": "20 hours",
+    "max_capacity": "150 kilograms",
+    "area_of_exploitation": "Industrial applications"
   },
   {
-    "Model": "EcoHand",
-    "Manufacturer": "GreenTech Prosthetics",
-    "Features": [
-      "Biodegradable materials for sustainability",
-      "Energy-efficient power management",
-      "Enhanced grip strength"
-    ],
-    "Specifications": {
-      "Weight": "600 grams",
-      "Battery Life": "14 hours",
-      "Maximum Load Capacity": "110 kilograms"
-    },
-    "Area of Exploitation": "Environmental consciousness"
+    "id": 6,
+    "model": "EcoHand",
+    "manufacturer": "GreenTech Prosthetics",
+    "battery_life": "14 hours",
+    "max_capacity": "110 kilograms",
+    "area_of_exploitation": "Environmental consciousness"
+  },
+  {
+    "id": 7,
+    "model": "ProFlex X1",
+    "manufacturer": "Prosthetic Innovations Corp.",
+    "battery_life": "17 hours",
+    "max_capacity": "115 kilograms",
+    "area_of_exploitation": "Fitness and training"
+  },
+  {
+    "id": 8,
+    "model": "CyberArm 3000",
+    "manufacturer": "FutureTech Robotics",
+    "battery_life": "22 hours",
+    "max_capacity": "160 kilograms",
+    "area_of_exploitation": "Military applications"
+  },
+  {
+    "id": 9,
+    "model": "NanoGrip",
+    "manufacturer": "NanoProsthesis Ltd.",
+    "battery_life": "13 hours",
+    "max_capacity": "95 kilograms",
+    "area_of_exploitation": "Precision tasks"
+  },
+  {
+    "id": 10,
+    "model": "AquaLimb",
+    "manufacturer": "HydroTech Solutions",
+    "battery_life": "10 hours",
+    "max_capacity": "80 kilograms",
+    "area_of_exploitation": "Underwater exploration"
+  },
+  {
+    "id": 11,
+    "model": "AirFlex",
+    "manufacturer": "AeroProsthetics Inc.",
+    "battery_life": "19 hours",
+    "max_capacity": "125 kilograms",
+    "area_of_exploitation": "Aeronautics"
+  },
+  {
+    "id": 12,
+    "model": "RoboGrip XL",
+    "manufacturer": "RoboTech Innovations",
+    "battery_life": "21 hours",
+    "max_capacity": "170 kilograms",
+    "area_of_exploitation": "Heavy-duty lifting"
+  },
+  {
+    "id": 13,
+    "model": "TechHand Pro",
+    "manufacturer": "TechProsthetics Inc.",
+    "battery_life": "16 hours",
+    "max_capacity": "105 kilograms",
+    "area_of_exploitation": "Technology integration"
+  },
+  {
+    "id": 14,
+    "model": "SportFlex",
+    "manufacturer": "AthleteProsthetics Ltd.",
+    "battery_life": "18 hours",
+    "max_capacity": "130 kilograms",
+    "area_of_exploitation": "Athletic performance"
+  },
+  {
+    "id": 15,
+    "model": "PrecisionArm",
+    "manufacturer": "PrecisionProsthetics",
+    "battery_life": "15 hours",
+    "max_capacity": "110 kilograms",
+    "area_of_exploitation": "Surgical precision"
+  },
+  {
+    "id": 16,
+    "model": "MechaArm 2000",
+    "manufacturer": "Mechatron Robotics",
+    "battery_life": "23 hours",
+    "max_capacity": "180 kilograms",
+    "area_of_exploitation": "Heavy industry"
+  },
+  {
+    "id": 17,
+    "model": "FlexiGrip",
+    "manufacturer": "FlexProsthetics",
+    "battery_life": "14 hours",
+    "max_capacity": "100 kilograms",
+    "area_of_exploitation": "Everyday mobility"
+  },
+  {
+    "id": 18,
+    "model": "CyberHand Pro",
+    "manufacturer": "CyberTech Innovations",
+    "battery_life": "17 hours",
+    "max_capacity": "115 kilograms",
+    "area_of_exploitation": "Digital interface"
+  },
+  {
+    "id": 19,
+    "model": "UltraLimb",
+    "manufacturer": "UltraTech Prosthetics",
+    "battery_life": "20 hours",
+    "max_capacity": "140 kilograms",
+    "area_of_exploitation": "Extreme conditions"
+  },
+  {
+    "id": 20,
+    "model": "NanoFlex",
+    "manufacturer": "NanoProsthesis Ltd.",
+    "battery_life": "13 hours",
+    "max_capacity": "95 kilograms",
+    "area_of_exploitation": "Nanotechnology applications"
   }
 ]
